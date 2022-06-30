@@ -1,0 +1,8 @@
+#!/bin/bash
+python3 $PYFILE
+
+
+1-run_inline
+
+#!/bin/bash
+python3 -c $PYCODE
